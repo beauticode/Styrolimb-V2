@@ -1,5 +1,5 @@
 /* Styrolimb v2
- * Gary Smith
+ * Gary S
  *Copyright (c) 2016 
  */
 #include <IRremote.h>
@@ -232,6 +232,6 @@ int getLastElement(short loopelement) {
 }
 
 /* Styrolimb v2
- * Gary Smith
+ * Gary S
  *Copyright (c) 2016 
  */
